@@ -7,7 +7,7 @@
 ## Dashboard Preview
 
 ![Dashboard Preview](assests/Dashboard_Preview_1.PNG)
-![Dashboard Preview](assets/Dashboard_Preview_2.PNG)
+![Dashboard Preview](assests/Dashboard_Preview_2.PNG)
 
 ---
 

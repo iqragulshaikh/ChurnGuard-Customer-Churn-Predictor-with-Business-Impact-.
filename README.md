@@ -4,6 +4,13 @@
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Preview](assets/dashboard_preview_1.png)
+![Dashboard Preview](assets/dashboard_preview_2.png)
+
+---
+
 ## Business Objective & Problem Statement
 
 Customer churn is one of the most critical financial drains on subscription and telecom businesses. Retaining existing customers is significantly more cost-effective than acquiring new ones. **ChurnGuard** was engineered to solve core retention challenges:

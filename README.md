@@ -6,8 +6,8 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview_1.png)
-![Dashboard Preview](assets/dashboard_preview_2.png)
+![Dashboard Preview](assests/Dashboard_Preview_1.PNG)
+![Dashboard Preview](assets/Dashboard_Preview_2.PNG)
 
 ---
 
